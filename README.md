@@ -1,6 +1,4 @@
-# Business-Process-optimization-with-data
-
-# Expense Reimbursement Process Optimization
+# Business-Process-optimization - Expense Reimbursement Process Optimization
 
 ## Objective
 This project aims to optimize the employee **expense reimbursement** process by identifying bottlenecks, reducing cycle time, and enhancing automation using **SQL** and **Tableau**. The goal is to cut the average reimbursement duration from **~25 days to 7 days**, improving efficiency across employee, managerial, and finance touchpoints.
